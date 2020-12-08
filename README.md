@@ -1,1 +1,1 @@
-# trex-camera
+# TREX
